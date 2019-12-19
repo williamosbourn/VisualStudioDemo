@@ -6,7 +6,7 @@ namespace VisualStudioDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I am configuring my github.");
+            Console.WriteLine("I am configuring my github!");
             Console.ReadLine(); 
         }
     }
